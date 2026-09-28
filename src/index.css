@@ -12,9 +12,11 @@
   --color-surface: #FFFFFF;
   --color-text: #2D1B24;
   --color-text-soft: #6B5560;
-  --color-accent: #9C27B0;
+  --color-accent: #8E3157;
   --color-muted: #F3E1E8;
   --color-line: #F0DCE4;
+  --color-card: #FFFDFB;
+  --color-bg-end: #FDECF1;
 
   --shadow-card: 0 2px 8px rgba(45, 27, 36, 0.06), 0 12px 32px -8px rgba(233, 30, 99, 0.18);
   --shadow-soft: 0 1px 2px rgba(45, 27, 36, 0.04), 0 4px 16px -4px rgba(45, 27, 36, 0.08);
